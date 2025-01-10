@@ -1,0 +1,3 @@
+Average score: 84,3
+The youngest one: Bob (Age: 22)
+This is the oldest one: Eve (Age: 30)
